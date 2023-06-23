@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997819808818",
+    "project_id": "loginauth-621ba",
+    "storage_bucket": "loginauth-621ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997819808818:android:639ec0fbbf248c2765902b",
+        "android_client_info": {
+          "package_name": "com.BillProject.CultivationProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997819808818-e3osq32l26456mvof7fsa9adqjot8095.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIK-Yd56EbCAAAOdS8aIWrklH67gjOsK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997819808818-e3osq32l26456mvof7fsa9adqjot8095.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
